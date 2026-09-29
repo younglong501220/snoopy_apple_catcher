@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .border-3 {
+    border-width: 3px;
+  }
+}
+
+body {
+  font-family: 'Balsamiq Sans', 'Comic Sans MS', 'Chalkboard SE', 'PingFang TC', 'Noto Sans TC', sans-serif;
+  user-select: none;
+  -webkit-user-select: none;
+}

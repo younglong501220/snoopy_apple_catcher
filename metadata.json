@@ -1,0 +1,6 @@
+{
+  "name": "史努比接蘋果 - Snoopy Apple Catcher",
+  "description": "經典漫畫風格的史努比接蘋果遊戲。純程式碼向量繪製紅色狗屋與史努比，支援鍵盤、滑鼠與觸控操控，包含紅綠蘋果與巧克力餅乾獎勵！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
